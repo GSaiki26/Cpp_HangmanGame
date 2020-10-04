@@ -1,0 +1,12 @@
+Escreva uma palavra: 
+Deseja colocar uma dica? [s or n] 
+Por favor, escreva uma opção valida! 
+Dica: 
+Pontuaçao: 
+Digite uma letra ou 0 para ver a dica: 
+Você nao acertou nenhuma letra :(
+Você perdeu! A palavra era: 
+Você ganhou! 
+Deseja jogar novamente? [s ou n] 
+Você precisa ter no maximo 5 pontos! 
+Tchau, ate a proxima! 

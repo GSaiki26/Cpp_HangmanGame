@@ -1,0 +1,12 @@
+Write a word: 
+Do you want to put a hint? [y or n] 
+Please, write a valid option! 
+Hint: 
+Score: 
+Type a letter or type 0 to see the hint: 
+You didn't hit any letter :( 
+You lose! The right word was: 
+You win! 
+Do you want to play again? [y or n]
+You need to have less than 5 points! 
+Byee, see ya!
